@@ -1,0 +1,1 @@
+Providing a platform for users to easily find event planners and related service providers can definitely simplify the process of organizing events. developed for a Team Software Project in University.
